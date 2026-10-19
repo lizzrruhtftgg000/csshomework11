@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Карточка профиля</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <main class="profile-card">
+        <h1 id="name">лизавета</h1>
+
+        <p>Профи веб-разработчик</p>
+
+        <p>
+            Изучаю HTML и CSS и учусь создавать
+            красивые сайты
+        </p>
+
+        <button type="button">Мой профильчик</button>
+    </main>
+
+</body>
+</html>
